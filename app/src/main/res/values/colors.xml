@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors for general appearance -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#303F9F</color>
+
+    <!-- colors taskEntrytask priority selection -->
+    <color name="materialRed">#E74C3C</color>
+    <color name="materialOrange">#E67E22</color>
+    <color name="materialYellow">#F1C40F</color>
+
+    <!-- light Theme colors -->
+    <color name="lightBackgroundAltAlphaV3">#809E9E9E</color>
+    <color name="lightBackgroundLightV3">#80FFFFFF</color>
+    <color name="lightThemePrimaryColourV3">#01aac4</color>
+    <color name="lightThemeSecondaryColourV3">#025f8b</color>s
+
+    <!-- dark Theme colors -->
+    <color name="darkBackgroundPrimaryV3">#241e45</color>
+    <color name="darkBackgroundSecondaryV3">#2f2856</color>
+    <color name="darkBackgroundAltV3">#483e81</color>
+    <color name="darkBackgroundAltAlphaV3">#80483e81</color>
+    <color name="darkBackgroundLightV3">#f4f3f3</color>
+    <color name="darkThemePrimaryColourV3">#01aac4</color>
+    <color name="darkThemeSecondaryColourV3">#025f8b</color>
+    <color name="darkThemeDarkPrimaryColourV3">#2f2856</color>
+    <color name="darkThemeDarkSecondaryColourV3">#50448f</color>
+
+</resources>
